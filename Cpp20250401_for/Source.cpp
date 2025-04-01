@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+//int main()
 {
 	int Data[10];
 
@@ -40,7 +40,7 @@ int Map[5][5] =
 	{1, 1, 1, 1, 1}
 };
 
-for (int y = 0; y < 10; ++y)
+//for (int y = 0; y < 10; ++y)
 {
 	for (int x = 0; x < 10; ++x)
 	{
