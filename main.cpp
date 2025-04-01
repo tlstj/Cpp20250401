@@ -26,7 +26,7 @@ int main()
 	float FltNum3 = 1f;
 	float FltNum4 = 1f;
 
-	float AddFlt = (FltNum3 + FltNum4)f;
+	float AddFlt = (FltNum3 + FltNum4)f;	
 	cout << AddFlt << endl;
 
 	float SubFlt = (FltNum3 - FltNum4)f;
